@@ -16,6 +16,8 @@ Inspired by:
 
 1. Download the latest `.deb` file here:
 
+    [![Release version](https://img.shields.io/github/v/release/gustavomdsantos/mscorefonts-extra?color=brightgreen&label=Download&style=for-the-badge)](https://github.com/gustavomdsantos/mscorefonts-extra/releases/latest)
+
 2. Open it with any Debian package installer (*dpkg*, *gdebi*, *captain*, etc).
 
 ### License
