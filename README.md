@@ -22,21 +22,21 @@ Inspired by:
 
 ### Included fonts
 
-* Arial
+* Arial (via `ttf-mscorefonts-installer` package)
 * Bahnschrift
 * Calibri
 * Cambria
 * Candara
-* Comic Sans MS
+* Comic Sans MS (via `ttf-mscorefonts-installer` package)
 * Consolas
 * Constantia
 * Corbel
-* Courier New
+* Courier New (via `ttf-mscorefonts-installer` package)
 * Franklin Gothic
 * Gabriola
-* Georgia
+* Georgia (via `ttf-mscorefonts-installer` package)
 * HoloLens MDL2 Assets
-* Impact
+* Impact (via `ttf-mscorefonts-installer` package)
 * Ink Free
 * Javanese Text
 * Lucida Console
@@ -54,10 +54,10 @@ Inspired by:
 * Sylfaen
 * Symbol
 * Tahoma
-* Times New Roman
-* Trebuchet MS
-* Verdana
-* Webdings
+* Times New Roman (via `ttf-mscorefonts-installer` package)
+* Trebuchet MS (via `ttf-mscorefonts-installer` package)
+* Verdana (via `ttf-mscorefonts-installer` package)
+* Webdings (via `ttf-mscorefonts-installer` package)
 * Wingdings
 
 ### EXCLUDED fonts
