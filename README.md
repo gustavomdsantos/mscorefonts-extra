@@ -20,6 +20,64 @@ Inspired by:
 
 2. Open it with any Debian package installer (*dpkg*, *gdebi*, *captain*, etc).
 
+### Included fonts
+
+* Arial
+* Bahnschrift
+* Calibri
+* Cambria
+* Candara
+* Comic Sans MS
+* Consolas
+* Constantia
+* Corbel
+* Courier New
+* Franklin Gothic
+* Gabriola
+* Georgia
+* HoloLens MDL2 Assets
+* Impact
+* Ink Free
+* Javanese Text
+* Lucida Console
+* Lucida Sans Unicode
+* MV Boli
+* Marlett
+* Microsoft Sans Serif
+* Palatino Linotype
+* Segoe Fluent Icons
+* Segoe MDL2 Assets
+* Segoe Print
+* Segoe Script
+* Segoe UI
+* Sitka Text
+* Sylfaen
+* Symbol
+* Tahoma
+* Times New Roman
+* Trebuchet MS
+* Verdana
+* Webdings
+* Wingdings
+
+### EXCLUDED fonts
+
+All fonts in `ttf-mscorefonts-installer` (to avoid duplicated files) and:
+
+* Ebrima
+* Gadugi
+* Leelawadee UI
+* Malgun Gothic
+* Microsoft Himalaya
+* Microsoft New Tai Lue
+* Microsoft PhagsPa
+* Microsoft Tai Le
+* Microsoft Yi Baiti
+* Mongolian Baiti
+* Myanmar Text
+* Nirmala UI
+* SimSun-ExtB
+
 ### License
 
 **Extra MsCoreFonts Installer** is distributed under the terms of the Microsoft TrueType Fonts EULA. See the COPYING file for details.
