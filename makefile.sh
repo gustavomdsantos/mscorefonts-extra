@@ -23,7 +23,7 @@ show_help() {
 Makefile-like script for 'mscorefonts-extra' font files
 =======================================================
 
-Usage: $0 [-d] [-h | --help]
+Usage: $0 [-c] [-d] [-h | --help]
 
 Options:
     -c                  (default) compresses '$COMPRESS_FOLDER' folder
