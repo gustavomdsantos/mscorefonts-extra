@@ -15,10 +15,18 @@ Inspired by:
 ### Installation
 
 1. Download the latest `.deb` file here:
-
+   
     [![Release version](https://img.shields.io/github/v/release/gustavomdsantos/mscorefonts-extra?color=brightgreen&label=Download&style=for-the-badge)](https://github.com/gustavomdsantos/mscorefonts-extra/releases/latest)
 
 2. Open it with any Debian package installer (*dpkg*, *gdebi*, *captain*, etc).
+
+3. If your system is saying that the `ttf-mscorefonts-installer` package is not available, run this command and try to install the `.deb` file again:
+   
+    ```bash
+    sudo add-apt-repository multiverse && sudo apt update
+    ```
+
+4. Enjoy!
 
 ### Included fonts
 
