@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+set -e
+
+decompress_file() {
+	local compressed="/usr/share/fonts/truetype/msttcorefonts-extra.tar.zst"
+	echo -e "\nDecompressing font files...\n"
+	tar --zstd -xvf "$compressed" && rm -f "$compressed"
+}
+
+decompress_file
