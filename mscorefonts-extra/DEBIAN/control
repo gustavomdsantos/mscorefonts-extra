@@ -7,9 +7,14 @@ Installed-Size: 51
 Priority: optional
 Architecture: all
 Depends: ttf-mscorefonts-installer
-Description: Installer for extra Microsoft core fonts
- This package allows for easy installation of the Microsoft Windows fonts
+Description: Installer for extra Microsoft fonts
+ This package allows for easy installation of the Microsoft Windows 11 fonts
  that are not included in the "ttf-mscorefonts-installer" package.
+ .
+ If your system is saying that the "ttf-mscorefonts-installer" package
+ is not available, run this command before installing this package:
+ .
+ sudo add-apt-repository multiverse && sudo apt update
  .
  This software was packaged using Quick DEB Builder: 
  <https://github.com/gustavomdsantos/quick-deb-builder>
