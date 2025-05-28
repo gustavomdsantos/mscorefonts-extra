@@ -3,7 +3,7 @@ Version: 1.0
 Section: multiverse/x11
 Maintainer: Gustavo Moraes <gustavomdsantos@pm.me>
 Homepage: https://github.com/gustavomdsantos/mscorefonts-extra
-Installed-Size: 51
+Installed-Size: 43510
 Priority: optional
 Architecture: all
 Depends: ttf-mscorefonts-installer
