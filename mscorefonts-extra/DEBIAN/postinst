@@ -3,9 +3,11 @@
 set -e
 
 decompress_file() {
-	local compressed="/usr/share/fonts/truetype/msttcorefonts-extra.tar.zst"
+	local folder="/usr/share/fonts/truetype"
+	local file="$folder/msttcorefonts-extra.tar.zst"
+
 	echo -e "\nDecompressing font files...\n"
-	tar --zstd -xvf "$compressed" && rm -f "$compressed"
+	tar --zstd -xvf "$file" -C "$folder" && rm -f "$file"
 }
 
 decompress_file
